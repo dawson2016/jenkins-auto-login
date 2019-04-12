@@ -1,0 +1,3 @@
+# jenkins-auto-login
+jenkins自动登录处理
+需要处理cookie,将requests取到jenkins的cookie在种在客户端，但是注意域名必须统一，否则无效，然后实现携带cookie跳转
